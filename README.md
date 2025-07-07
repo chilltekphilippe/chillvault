@@ -12,7 +12,7 @@ chillvault chrome
 
 5. Click "Load Unpacked"
 
-6. Select Dist folder
+6. Select Dist folder (if you get a manifest error, you probably need to select the dist folder within the main folder)
 
 
 
